@@ -11,12 +11,11 @@ Additional description of the project and its features.
 - HTML elements,
   - `section`, `header`, `main`
 - CSS,
-  - `display`,`font-size`, `grid-template-columns`
-  - `grid-auto-flow`, `grid-auto-columns`,`align-items`
+  - `display`, `font-size`, `grid-template-columns`
+  - `grid-auto-flow`, `grid-auto-columns`, `align-items`
 - Linters
   - [Prettier](https://prettier.io/)
   - [stylelint](https://stylelint.io/)
-  
 
 ## Live Demo
 
