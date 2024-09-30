@@ -1,6 +1,6 @@
-# Project Name
+# FCC Magazine
 
-> One paragraph statement about the project.
+> This is a project about learning css grid by building a magazine.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,14 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML elements,
+  - `section`, `header`, `main`
+- CSS,
+  - `display`, `font-size`, `grid-template-columns`
+  - `grid-auto-flow`, `grid-auto-columns`, `align-items`
+- Linters
+  - [Prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +26,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/16-fcc-magazine.git
 
 ```
 
@@ -77,9 +82,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter:[OladipoAzeeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
